@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context>  
+  
+  <!-- Credentials would be encrypted in real-world use -->
+  <Parameter name="TableauImpersonationUser" value="[enter your value here]" override="false" />
+  <Parameter name="TableauImpersonationPassword" value="[enter your value here (plain text)]" override="false" />
+  
+  <Parameter name="TableauApiVersion" value="2.3" override="false" />
+   
+  <Parameter name="TableauServerHost" value="[enter your value here]" override="false" />
+  <Parameter name="TableauServerPort" value="[enter your value here]" override="false" />
+  <Parameter name="TableauServerUrl" value="[enter your value here]" override="false" />
+  <Parameter name="TableauSite" value="[enter your value here]" override="false" />
+  <Parameter name="ProductionWebServer" value="[enter your value here]" override="false" />  
+    
+</Context>
